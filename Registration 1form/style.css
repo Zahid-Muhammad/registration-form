@@ -1,0 +1,27 @@
+#my-form {
+ text-align: left;
+ width: 400px;
+ margin: auto;
+}
+
+#rf{
+   background-color: rgb(30, 30, 95);
+}
+
+.mytext{
+    color: white;
+}
+.inpt{
+    background-color: rgb(2, 2, 29);
+    color: white;
+    width: 250px;
+}
+.mybox{
+    margin-bottom: 10px;
+}
+
+#submit{
+    background-color: rgb(2, 2, 29);
+    color: white;
+    width: 100px;
+}
